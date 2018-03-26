@@ -1,0 +1,38 @@
+html {}
+
+#chartdiv {
+    width: 100%;
+    top: 5%;
+    margin-top: 5%;
+    margin-left: 0%;
+    margin-right: 0%;
+    left: 0%;
+    right: 0%;
+}
+
+#dropMenu.dropdown {
+    text-align: center;
+}
+
+button.navbar-toggle.collapsed {
+    text-align: center;
+}
+
+#Nav1.nav li {
+    display: inline-block;
+    float: none;
+}
+
+#navBar1.nav li {
+    display: inline-block;
+    float: none;
+}
+
+#Nav1.nav {
+    white-space: nowrap;
+    overflow-x: auto;
+}
+
+.navbar {
+    margin-bottom: 0;
+}

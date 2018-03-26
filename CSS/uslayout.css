@@ -1,0 +1,1081 @@
+door1{
+    background-color: orange;
+    width: 100px;
+    padding: 25px;
+    margin: 25px;
+    position: absolute;
+    left:40em;
+    top: 30em;
+    text-align: center;
+}
+door2{
+    background-color: orange;
+    height: 20px;
+    padding: 25px;
+    margin: 25px;
+    position: absolute;
+    left:55em;
+    top: 30em;
+    text-align: center;
+}
+
+.gauge1 {
+    position: relative;
+}
+.gauge1 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #e0ff9b;
+    border-bottom: 1.5em solid #e0ff9b;
+    left: 2em;
+    top: 4em;
+}
+.gauge2 {
+    position: relative;
+}
+.gauge2 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #e0ff9b;
+    border-bottom: 1.5em solid #e0ff9b;
+    left: 56em;
+    top: 19em;
+}
+.my-icon {
+    position: relative;
+}
+.my-icon > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 34em;
+    top: 30em;
+}
+.my-icon1 {
+    position: relative;
+}
+.my-icon1 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 30.9em;
+    top: 30em;
+}
+.my-icon2 {
+    position: relative;
+}
+.my-icon2 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 27.8em;
+    top: 30em;
+}
+.my-icon3 {
+    position: relative;
+}
+.my-icon3 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 34em;
+    top: 26.9em;
+}
+.my-icon4 {
+    position: relative;
+}
+.my-icon4 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 30.9em;
+    top: 26.9em;
+}
+.my-icon5 {
+    position: relative;
+}
+.my-icon5 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 27.8em;
+    top: 26.9em;
+}
+.my-icon6 {
+    position: relative;
+}
+.my-icon6 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 19em;
+    top: 30em;
+}
+.my-icon7 {
+    position: relative;
+}
+.my-icon7 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 15.9em;
+    top: 30em;
+}
+.my-icon8 {
+    position: relative;
+}
+.my-icon8 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 12.8em;
+    top: 30em;
+}
+.my-icon9 {
+    position: relative;
+}
+.my-icon9 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 19em;
+    top: 26.9em;
+}
+.my-icon10 {
+    position: relative;
+}
+.my-icon10 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 15.9em;
+    top: 26.9em;
+}
+.my-icon11 {
+    position: relative;
+}
+.my-icon11 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 12.8em;
+    top: 26.9em;
+}
+.my-icon12 {
+    position: relative;
+}
+.my-icon12 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 1em;
+    top: 16.4em;
+}
+.my-icon13 {
+    position: relative;
+}
+.my-icon13 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 1em;
+    top: 13.2em;
+}
+.my-icon14 {
+    position: relative;
+}
+.my-icon14 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 1em;
+    top: 10em;
+}
+.my-icon15 {
+    position: relative;
+}
+.my-icon15 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 4.1em;
+    top: 16.4em;
+}
+.my-icon16 {
+    position: relative;
+}
+.my-icon16 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 4.1em;
+    top: 13.2em;
+}
+.my-icon17 {
+    position: relative;
+}
+.my-icon17 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 4.1em;
+    top: 10em;
+}
+.my-icon18 {
+    position: relative;
+}
+.my-icon18 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 12.8em;
+    top: 0em;
+}
+.my-icon19 {
+    position: relative;
+}
+.my-icon19 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 15.9em;
+    top: 0em;
+}
+.my-icon20 {
+    position: relative;
+}
+.my-icon20 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 19em;
+    top: 0em;
+}
+.my-icon21 {
+    position: relative;
+}
+.my-icon21 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 12.8em;
+    top: 3.1em;
+}
+.my-icon22 {
+    position: relative;
+}
+.my-icon22 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 15.9em;
+    top: 3.1em;
+}
+.my-icon23 {
+    position: relative;
+}
+.my-icon23 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 19em;
+    top: 3.1em;
+}
+.my-icon24 {
+    position: relative;
+}
+.my-icon24 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 27.8em;
+    top: 0em;
+}
+.my-icon25 {
+    position: relative;
+}
+.my-icon25 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 30.9em;
+    top: 0em;
+}
+.my-icon26 {
+    position: relative;
+}
+.my-icon26 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 34em;
+    top: 0em;
+}
+.my-icon27 {
+    position: relative;
+}
+.my-icon27 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 27.8em;
+    top: 3.1em;
+}
+.my-icon28 {
+    position: relative;
+}
+.my-icon28 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 30.9em;
+    top: 3.1em;
+}
+.my-icon29 {
+    position: relative;
+}
+.my-icon29 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 34em;
+    top: 3.1em;
+}
+.my-icon30 {
+    position: relative;
+}
+.my-icon30 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 42.8em;
+    top: 0em;
+}
+.my-icon31 {
+    position: relative;
+}
+.my-icon31 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 45.9em;
+    top: 0em;
+}.my-icon32 {
+    position: relative;
+}
+.my-icon32 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 49em;
+    top: 0em;
+}
+.my-icon33 {
+    position: relative;
+}
+.my-icon33 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 42.8em;
+    top: 3.1em;
+}
+.my-icon34 {
+    position: relative;
+}
+.my-icon34 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 45.9em;
+    top: 3.1em;
+}.my-icon35 {
+    position: relative;
+}
+.my-icon35 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 49em;
+    top: 3.1em;
+}
+.my-icon36 {
+    position: relative;
+}
+.my-icon36 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 56em;
+    top: 14em;
+}
+.my-icon37 {
+    position: relative;
+}
+.my-icon37 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 60em;
+    top: 14em;
+}
+.my-icon38 {
+    position: relative;
+}
+.my-icon38 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 56em;
+    top: 10em;
+}
+.my-icon39 {
+    position: relative;
+}
+.my-icon39 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 60em;
+    top: 10em;
+}
+.my-icon40 {
+    position: relative;
+}
+.my-icon40 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 56em;
+    top: 6em;
+}
+.my-icon41 {
+    position: relative;
+}
+.my-icon41 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 60em;
+    top: 6em;
+}
+                #holder {
+		margin-top: 32.1em;
+		margin-left: 34.9em;
+		position: relative;
+		background: #45453f;
+                   }
+                   #holder1 {
+		margin-top: 32.1em;
+		margin-left: 31.8em;
+		position: relative;
+		background: #45453f;
+                    }
+                    #holder2 {
+		margin-top: 32.1em;
+		margin-left: 28.7em;
+		position: relative;
+		background: #45453f;
+                    }
+                     #holder3 {
+		margin-top: -3.1em;
+		margin-left: 34.9em;
+		position: relative;
+		background: #45453f;}
+                     
+                    #holder4 {
+		margin-top: -3.1em;
+		margin-left: 31.8em;
+		position: relative;
+		background: #45453f;
+                    }
+                    #holder5 {
+		margin-top: -3.1em;
+		margin-left: 28.7em;
+		position: relative;
+		background: #45453f;
+                    }
+                    
+                    #holder6 {
+                margin-top: 35.2em;
+		margin-left: 19.9em;
+		position: relative;
+		background: #45453f;
+                    }
+                    #holder7 {
+                margin-top: 35.2em;
+		margin-left: 16.8em;
+		position: relative;
+		background: #45453f;
+                    }
+                    #holder8 {
+                margin-top: 35.2em;
+		margin-left: 13.7em;
+		position: relative;
+		background: #45453f;
+                    }
+                    #holder9 {
+                margin-top: -6.2em;
+		margin-left: 19.9em;
+		position: relative;
+		background: #45453f;
+                    }
+                    #holder10 {
+                margin-top: -6.2em;
+		margin-left: 16.8em;
+		position: relative;
+		background: #45453f;
+                    }
+                    #holder11 {
+                margin-top: -6.2em;
+		margin-left: 13.7em;
+		position: relative;
+		background: #45453f;
+                    }
+                    #holder12 {
+                margin-top: -16.7em;
+		margin-left: 1.9em;
+		position: relative;
+		background: #45453f;
+                    }
+                    #holder13 {
+                margin-top: -20em;
+		margin-left: 1.9em;
+		position: relative;
+		background: #45453f;
+                    }
+                    #holder14 {
+                margin-top: -3.0em;
+		margin-left: 1.9em;
+		position: absolute;
+		background: #45453f;
+                    }
+                    #holder15 {
+                margin-top: 38.5em;
+		margin-left: 5em;
+		position: relative;
+		background: #45453f;
+                    }
+                    #holder16 {
+                margin-top: -6.3em;
+		margin-left: 5em;
+		position: absolute;
+		background: #45453f;
+                    }
+                    #holder17 {
+                margin-top: -3.0em;
+		margin-left: 5em;
+		position: absolute;
+		background: #45453f;
+                    }
+                    #holder18 {
+                margin-top: -36.2em;
+		margin-left: 13.7em;
+		position: relative;
+		background: #45453f;    
+                    }
+                    #holder19 {
+                margin-top: 0em;
+		margin-left: 16.7em;
+		position: relative;
+		background: #45453f;    
+                    }
+                    #holder20 {
+                margin-top: 0em;
+		margin-left: 19.8em;
+		position: relative;
+		background: #45453f;    
+                    }
+                    #holder21 {
+                margin-top: 41.3em;
+		margin-left: 13.7em;
+		position: relative;
+		background: #45453f;    
+                    }
+                    #holder22 {
+                margin-top: 0em;
+		margin-left: 16.7em;
+		position: relative;
+		background: #45453f;    
+                    }
+                    #holder23 {
+                margin-top: 0em;
+		margin-left: 19.8em;
+		position: relative;
+		background: #45453f;    
+                    }
+                    #holder24 {
+                margin-top: -3em;
+		margin-left: 28.7em;
+		position: absolute;
+		background: #45453f;    
+                    }
+                    #holder25 {
+                margin-top: -3em;
+		margin-left: 31.8em;
+		position: absolute;
+		background: #45453f;    
+                    }
+                    #holder26 {
+                margin-top: -3em;
+		margin-left: 34.8em;
+		position: absolute;
+		background: #45453f;    
+                    }
+                    #holder27 {
+                margin-top: 41em;
+		margin-left: 28.7em;
+		position: relative;
+		background: #45453f;    
+                    }
+                    #holder28 {
+                margin-top: 41em;
+		margin-left: 31.9em;
+		position: relative;
+		background: #45453f;    
+                    }
+                    #holder29 {
+                margin-top: 41em;
+		margin-left: 34.8em;
+		position: relative;
+		background: #45453f;    
+                    }
+                    #holder30{
+                margin-top: -3em;
+		margin-left: 43.6em;
+		position: absolute;
+		background: #45453f;   
+                    }
+                    #holder31{
+                margin-top: -3em;
+		margin-left: 46.8em;
+		position: absolute;
+		background: #45453f;   
+                    }
+                    #holder32{
+                margin-top: -3em;
+		margin-left: 49.9em;
+		position: absolute;
+		background: #45453f;   
+                    }
+                    #holder33{
+                margin-top: 0em;
+		margin-left: 43.6em;
+		position: absolute;
+		background: #45453f;   
+                    }
+                    #holder34{
+                margin-top: 0em;
+		margin-left: 46.6em;
+		position: absolute;
+		background: #45453f;   
+                    }
+                    #holder35{
+                margin-top: 0em;
+		margin-left: 49.9em;
+		position: absolute;
+		background: #45453f;   
+                    }
+                    #es11{
+                margin-top: 11em;
+		margin-left: 56.8em;
+		position: absolute;
+		background: #45453f;   
+                    }
+                    #es12{
+                margin-top: 11em;
+		margin-left: 60.9em;
+		position: absolute;
+		background: #45453f;   
+                    }
+                    #es21{
+                margin-top: 7.1em;
+		margin-left: 56.8em;
+		position: absolute;
+		background: #45453f;   
+                    }
+                    #es22{
+                margin-top: 7.1em;
+		margin-left: 60.9em;
+		position: absolute;
+		background: #45453f;   
+                    }
+                    #es31{
+                margin-top: 3.1em;
+		margin-left: 56.8em;
+		position: absolute;
+		background: #45453f;   
+                    }
+                    #es32{
+                margin-top: 3.1em;
+		margin-left: 60.9em;
+		position: absolute;
+		background: #45453f;   
+                    }
+                    #gauge1{
+                margin-top: 4.9em;
+		margin-left: 2.9em;
+		position: absolute;
+		background: #45453f;   
+                    }
+                    #gauge2{
+                margin-top: 19.8em;
+		margin-left: 56.8em;
+		position: absolute;
+		background: #45453f;   
+                    }
+                    #loginrfid{
+        margin-top: 0em;
+		margin-left: 80%;
+		position: absolute;
+		background: #ffffff;
+                    }
+                    
+                                 
+                    
+                    
+
+
+.dotRed {
+		width: 10px;
+		height: 10px;
+		border: 5px solid #ff0000;
+		-webkit-border-radius: 30px;
+		-moz-border-radius: 30px;
+		border-radius: 30px;
+		background-color: #ff0000;
+		z-index: 10;
+		position: absolute;
+	}
+            .pulseRed {
+		border: 10px solid #ff0000;
+		background: transparent;
+		-webkit-border-radius: 60px;
+		-moz-border-radius: 60px;
+		border-radius: 60px;
+		height: 50px;
+		width: 50px;
+		-webkit-animation: pulse 3s ease-out;
+		-moz-animation: pulse 3s ease-out;
+		animation: pulse 3s ease-out;
+		-webkit-animation-iteration-count: infinite;
+		-moz-animation-iteration-count: infinite;
+		animation-iteration-count: infinite;
+		position: absolute;
+		top: -25px;
+		left: -25px;
+		z-index: 1;
+		opacity: 0;
+	}
+        .dotGreen {
+		width: 10px;
+		height: 10px;
+		border: 5px solid #00ff00;
+		-webkit-border-radius: 30px;
+		-moz-border-radius: 30px;
+		border-radius: 30px;
+		background-color: #00ff00;
+		z-index: 10;
+		position: absolute;
+	}
+            .pulseGreen {
+		border: 10px solid #00ff00;
+		background: transparent;
+		-webkit-border-radius: 60px;
+		-moz-border-radius: 60px;
+		border-radius: 60px;
+		height: 50px;
+		width: 50px;
+		-webkit-animation: pulse 3s ease-out;
+		-moz-animation: pulse 3s ease-out;
+		animation: pulse 3s ease-out;
+		-webkit-animation-iteration-count: infinite;
+		-moz-animation-iteration-count: infinite;
+		animation-iteration-count: infinite;
+		position: absolute;
+		top: -25px;
+		left: -25px;
+		z-index: 1;
+		opacity: 0;
+	}
+        .dotYellow {
+		width: 10px;
+		height: 10px;
+		border: 5px solid #ffff00;
+		-webkit-border-radius: 30px;
+		-moz-border-radius: 30px;
+		border-radius: 30px;
+		background-color: #ffff00;
+		z-index: 10;
+		position: absolute;
+	}
+            .pulseYellow {
+		border: 10px solid #ffff00;
+		background: transparent;
+		-webkit-border-radius: 60px;
+		-moz-border-radius: 60px;
+		border-radius: 60px;
+		height: 50px;
+		width: 50px;
+		-webkit-animation: pulse 3s ease-out;
+		-moz-animation: pulse 3s ease-out;
+		animation: pulse 3s ease-out;
+		-webkit-animation-iteration-count: infinite;
+		-moz-animation-iteration-count: infinite;
+		animation-iteration-count: infinite;
+		position: absolute;
+		top: -25px;
+		left: -25px;
+		z-index: 1;
+		opacity: 0;
+	}
+            .dotGray {
+		width: 10px;
+		height: 10px;
+		border: 5px solid #A0A0A0;
+		-webkit-border-radius: 30px;
+		-moz-border-radius: 30px;
+		border-radius: 30px;
+		background-color: #A0A0A0;
+		z-index: 10;
+		position: absolute;
+	}
+            .pulseGray {
+		border: 10px solid #A0A0A0;
+		background: transparent;
+		-webkit-border-radius: 60px;
+		-moz-border-radius: 60px;
+		border-radius: 60px;
+		height: 50px;
+		width: 50px;
+		-webkit-animation: pulse 3s ease-out;
+		-moz-animation: pulse 3s ease-out;
+		animation: pulse 3s ease-out;
+		-webkit-animation-iteration-count: infinite;
+		-moz-animation-iteration-count: infinite;
+		animation-iteration-count: infinite;
+		position: absolute;
+		top: -25px;
+		left: -25px;
+		z-index: 1;
+		opacity: 0;
+	}
+        
+	@-moz-keyframes pulse {
+	 0% {
+	   	-moz-transform: scale(0);
+	   	opacity: 0.0;
+	 }
+	 25% {
+	   	-moz-transform: scale(0);
+	   	opacity: 0.1;
+	 }
+	 50% {
+	   	-moz-transform: scale(0.1);
+	   	opacity: 0.3;
+	 }
+	 75% {
+	   	-moz-transform: scale(0.5);
+	   	opacity: 0.5;
+	 }
+	 100% {
+	   	-moz-transform: scale(1);
+	   	opacity: 0.0;
+	 }
+	}
+	@-webkit-keyframes "pulse" {
+	 0% {
+	    -webkit-transform: scale(0);
+	   	opacity: 0.0;
+	 }
+	 25% {
+	    -webkit-transform: scale(0);
+	   	opacity: 0.1;
+	 }
+	 50% {
+	    -webkit-transform: scale(0.1);
+	   	opacity: 0.3;
+	 }
+	 75% {
+	    -webkit-transform: scale(0.5);
+	   	opacity: 0.5;
+	 }
+	 100% {
+	    -webkit-transform: scale(1);
+	   	opacity: 0.0;
+	 }
+	}

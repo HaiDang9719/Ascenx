@@ -1,0 +1,293 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 24-08-2016, 06:22:03
+    Author     : QuangNguyen
+*/
+.gauge1 {
+    position: relative;
+}
+.gauge1 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #e0ff9b;
+    border-bottom: 1.5em solid #e0ff9b;
+    left: 0em;
+    top: 0em;
+}
+.my-icon {
+    position: relative;
+}
+.my-icon > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 8em;
+    top: 0em;
+}
+.my-icon1 {
+    position: relative;
+}
+.my-icon1 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 15em;
+    top: 0em;
+}
+.my-icon2 {
+    position: relative;
+}
+.my-icon2 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 22em;
+    top: 0em;
+}
+.my-icon3 {
+    position: relative;
+}
+.my-icon3 > i {
+    position: absolute;
+    display: inline-block;
+    width: 0;
+    height: 0;
+    line-height: 0;
+    border: 1.5em solid #1142AA;
+    border-bottom: 1.5em solid #1142AA;
+    left: 29em;
+    top: 0em;
+}
+
+ #loginrfid{
+                margin-top: 0em;
+		margin-left: 80%;
+		position: absolute;
+		background: #ffffff;
+                    }
+                    
+                    #holder {
+		margin-top: 0.9em;
+		margin-left: 8.9em;
+		position: absolute;
+		background: #45453f;
+                   }
+                   #holder1 {
+		margin-top: 0.9em;
+		margin-left: 15.9em;
+		position: absolute;
+		background: #45453f;
+                   }
+                   #holder2 {
+		margin-top: 0.9em;
+		margin-left: 22.9em;
+		position: absolute;
+		background: #45453f;
+                   }
+                   #holder3 {
+		margin-top: 0.9em;
+		margin-left: 29.9em;
+		position: absolute;
+		background: #45453f;
+                   }
+                   #holder4 {
+		margin-top: 0.9em;
+		margin-left: 36.9em;
+		position: absolute;
+		background: #45453f;
+                   }
+                   #gauge1{
+                margin-top: 0.9em;
+		margin-left: 0.9em;
+		position: absolute;
+		background: #45453f;   
+                    }
+.dotRed {
+		width: 10px;
+		height: 10px;
+		border: 5px solid #ff0000;
+		-webkit-border-radius: 30px;
+		-moz-border-radius: 30px;
+		border-radius: 30px;
+		background-color: #ff0000;
+		z-index: 10;
+		position: absolute;
+	}
+            .pulseRed {
+		border: 10px solid #ff0000;
+		background: transparent;
+		-webkit-border-radius: 60px;
+		-moz-border-radius: 60px;
+		border-radius: 60px;
+		height: 50px;
+		width: 50px;
+		-webkit-animation: pulse 3s ease-out;
+		-moz-animation: pulse 3s ease-out;
+		animation: pulse 3s ease-out;
+		-webkit-animation-iteration-count: infinite;
+		-moz-animation-iteration-count: infinite;
+		animation-iteration-count: infinite;
+		position: absolute;
+		top: -25px;
+		left: -25px;
+		z-index: 1;
+		opacity: 0;
+	}
+        .dotGreen {
+		width: 10px;
+		height: 10px;
+		border: 5px solid #00ff00;
+		-webkit-border-radius: 30px;
+		-moz-border-radius: 30px;
+		border-radius: 30px;
+		background-color: #00ff00;
+		z-index: 10;
+		position: absolute;
+	}
+            .pulseGreen {
+		border: 10px solid #00ff00;
+		background: transparent;
+		-webkit-border-radius: 60px;
+		-moz-border-radius: 60px;
+		border-radius: 60px;
+		height: 50px;
+		width: 50px;
+		-webkit-animation: pulse 3s ease-out;
+		-moz-animation: pulse 3s ease-out;
+		animation: pulse 3s ease-out;
+		-webkit-animation-iteration-count: infinite;
+		-moz-animation-iteration-count: infinite;
+		animation-iteration-count: infinite;
+		position: absolute;
+		top: -25px;
+		left: -25px;
+		z-index: 1;
+		opacity: 0;
+	}
+        .dotYellow {
+		width: 10px;
+		height: 10px;
+		border: 5px solid #ffff00;
+		-webkit-border-radius: 30px;
+		-moz-border-radius: 30px;
+		border-radius: 30px;
+		background-color: #ffff00;
+		z-index: 10;
+		position: absolute;
+	}
+            .pulseYellow {
+		border: 10px solid #ffff00;
+		background: transparent;
+		-webkit-border-radius: 60px;
+		-moz-border-radius: 60px;
+		border-radius: 60px;
+		height: 50px;
+		width: 50px;
+		-webkit-animation: pulse 3s ease-out;
+		-moz-animation: pulse 3s ease-out;
+		animation: pulse 3s ease-out;
+		-webkit-animation-iteration-count: infinite;
+		-moz-animation-iteration-count: infinite;
+		animation-iteration-count: infinite;
+		position: absolute;
+		top: -25px;
+		left: -25px;
+		z-index: 1;
+		opacity: 0;
+	}
+            .dotGray {
+		width: 10px;
+		height: 10px;
+		border: 5px solid #A0A0A0;
+		-webkit-border-radius: 30px;
+		-moz-border-radius: 30px;
+		border-radius: 30px;
+		background-color: #A0A0A0;
+		z-index: 10;
+		position: absolute;
+	}
+            .pulseGray {
+		border: 10px solid #A0A0A0;
+		background: transparent;
+		-webkit-border-radius: 60px;
+		-moz-border-radius: 60px;
+		border-radius: 60px;
+		height: 50px;
+		width: 50px;
+		-webkit-animation: pulse 3s ease-out;
+		-moz-animation: pulse 3s ease-out;
+		animation: pulse 3s ease-out;
+		-webkit-animation-iteration-count: infinite;
+		-moz-animation-iteration-count: infinite;
+		animation-iteration-count: infinite;
+		position: absolute;
+		top: -25px;
+		left: -25px;
+		z-index: 1;
+		opacity: 0;
+	}
+        
+	@-moz-keyframes pulse {
+	 0% {
+	   	-moz-transform: scale(0);
+	   	opacity: 0.0;
+	 }
+	 25% {
+	   	-moz-transform: scale(0);
+	   	opacity: 0.1;
+	 }
+	 50% {
+	   	-moz-transform: scale(0.1);
+	   	opacity: 0.3;
+	 }
+	 75% {
+	   	-moz-transform: scale(0.5);
+	   	opacity: 0.5;
+	 }
+	 100% {
+	   	-moz-transform: scale(1);
+	   	opacity: 0.0;
+	 }
+	}
+	@-webkit-keyframes "pulse" {
+	 0% {
+	    -webkit-transform: scale(0);
+	   	opacity: 0.0;
+	 }
+	 25% {
+	    -webkit-transform: scale(0);
+	   	opacity: 0.1;
+	 }
+	 50% {
+	    -webkit-transform: scale(0.1);
+	   	opacity: 0.3;
+	 }
+	 75% {
+	    -webkit-transform: scale(0.5);
+	   	opacity: 0.5;
+	 }
+	 100% {
+	    -webkit-transform: scale(1);
+	   	opacity: 0.0;
+	 }
+	}
+
